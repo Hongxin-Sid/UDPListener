@@ -1,0 +1,9 @@
+c:\users\a_rei\documents\visual studio 2015\Projects\UDPListener\UDPListener\bin\Debug\UDPListener.exe.config
+c:\users\a_rei\documents\visual studio 2015\Projects\UDPListener\UDPListener\obj\Debug\UDPListener.csprojResolveAssemblyReference.cache
+c:\users\a_rei\documents\visual studio 2015\Projects\UDPListener\UDPListener\obj\Debug\UDPListener.Form1.resources
+c:\users\a_rei\documents\visual studio 2015\Projects\UDPListener\UDPListener\obj\Debug\UDPListener.Properties.Resources.resources
+c:\users\a_rei\documents\visual studio 2015\Projects\UDPListener\UDPListener\obj\Debug\UDPListener.csproj.GenerateResource.Cache
+c:\users\a_rei\documents\visual studio 2015\Projects\UDPListener\UDPListener\bin\Debug\UDPListener.exe
+c:\users\a_rei\documents\visual studio 2015\Projects\UDPListener\UDPListener\bin\Debug\UDPListener.pdb
+c:\users\a_rei\documents\visual studio 2015\Projects\UDPListener\UDPListener\obj\Debug\UDPListener.exe
+c:\users\a_rei\documents\visual studio 2015\Projects\UDPListener\UDPListener\obj\Debug\UDPListener.pdb
